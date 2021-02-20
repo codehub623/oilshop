@@ -1,15 +1,3 @@
-## Stack
-
-This project is initialized with [Create React App](https://github.com/facebook/create-react-app) consisting of:
-
-- TypeScript
-- React (16+)
-- react-scripts (createReactApp)
-- react-testing-library (not Enzyme)
-- SASS/SCSS
-- ESLint (instead of deprecated TSLint)
-- Prettier
-
 ## Get Started
 
 ### Make sure you run Node.js v10+
