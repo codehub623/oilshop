@@ -1,11 +1,10 @@
 {
-  "name": "react-typescript-eslint-prettier-boilerplate",
+  "name": "project",
   "author": {
-    "name": "Michiel Bouw",
-    "url": "http://michielbouw.nl"
+    "name": "codehub2010@gmail.com"
   },
   "license": "MIT",
-  "version": "0.0.2",
+  "version": "1.0.0",
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
